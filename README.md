@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 ```python
-# Developed By: 
-# Register Number: 
+# Developed By: SARAVANA KUMAR M
+# Register Number: 212222230133
 
 
 
@@ -37,6 +37,7 @@ The Histogram of gray scale image and color image is shown.
 ```
 ## Output:
 ### Input Grayscale Image and Color Image
+![image](https://github.com/user-attachments/assets/4ee764d6-3da1-42ac-ba17-95ece6c5cfa6)
 
 
 ### Histogram of Grayscale Image and any channel of Color Image
